@@ -1,25 +1,25 @@
 ## 💫 About Me
-- 👋 Hello! I’m Thanh Tu (also known as Tu Thanh, Tu, or Thanh — feel free to call me whatever you prefer).  
-- 🎓 I am currently a third-year student in APCS at HCMUS, navigating university one project at a time.  
-- 📐 I have always enjoyed mathematics and continue to appreciate problem-solving.  
-- 🎶 While not a rhythm game enthusiast, I enjoy **maimai** and am currently at 13k, aiming to improve further.  
+- 👋 Hi! I’m Thanh Tu… or Tu Thanh… or Tu… or Thanh… honestly, just call me whatever you want 😄  
+- 🎓 Third-year student in APCS, HCMUS. Currently surviving university one project at a time.  
+- 📐 I used to love math… and still do.  
+- 🎶 Not a rhythm game enthusiast — but likes **maimai**. Currently at 13k and trying to get higher.  
 - 🌱 I am enthusiastic about learning new technologies, contributing to projects, and collaborating effectively with others.  
 
 ## 🛠 Skills & Interests
 
 ### Programming Languages
-- **C++** – Acquired during university studies; still exploring its depth.  
-- **Rust** – Currently learning and improving gradually.  
-- **Kotlin** – Applied in mobile development projects, celebrating every successful build.  
+- **C++** – Learned in university, still wondering why pointers exist.  
+- **Rust** – Trying to learn it… slowly, painfully, and with fear.  
+- **Kotlin** – For my mobile projects (and the occasional “it compiles!” celebration).
 
 ### Writing Documents
 Although English is not my strongest suit, I can create well-structured documents using:  
 - **LaTeX** – Ideal for mathematical and technical documents.  
 - **Markdown** – For clear and presentable README files.  
-- **Typst** – A modern tool for creating polished documents efficiently.  
+- **Typst** – A modern tool for creating polished documents efficiently. Definitely worth a try!
 
 ### Interests
-- **Music** – I enjoy a variety of genres depending on my mood.  
+- **Music** – A messy mix of different genres.
 - **Maimai** – Actively improving my skills and enjoying the challenge.  
 - **Stardew Valley** – Engaging in a peaceful life of farming, fishing, and sometimes strategic planning in-game. 
 
@@ -28,4 +28,4 @@ Although English is not my strongest suit, I can create well-structured document
 - Contribute to meaningful projects that have a positive impact.  
 - Revisit and study mathematics more seriously.  
 - Collaborate with like-minded individuals and broaden my knowledge in software development.  
-- Maintain a healthy balance between learning, creativity, and personal interests.  
+- Balance learning, creating, and personal fun — because all work and no play is no fun at all.  
