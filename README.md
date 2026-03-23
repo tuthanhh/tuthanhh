@@ -1,9 +1,9 @@
-## 💫 About Me
-- 👋 Hi! I’m Thanh Tu… or Tu Thanh… or Tu… or Thanh… honestly, just call me whatever you want 😄  
-- 🎓 Third-year student in APCS, HCMUS. Currently surviving university one project at a time.  
-- 📐 I used to love math… and still do.  
-- 🎶 Not a rhythm game enthusiast — but likes **maimai**. Currently at 13k and trying to get higher.  
-- 🌱 I am enthusiastic about learning new technologies, contributing to projects, and collaborating effectively with others.  
+## About Me
+- Hi! I’m Thanh Tu… or Tu Thanh… or Tu… or Thanh… honestly, just call me whatever you want 😄  
+- Third-year student in APCS, HCMUS. Currently surviving university one project at a time.  
+- I used to love math… and still do.  
+- Not a rhythm game enthusiast — but likes **maimai**. Currently at 14k and trying to get higher.  
+- I am enthusiastic about learning new technologies, contributing to projects, and collaborating effectively with others.  
 
 ## 🛠 Skills & Interests
 
@@ -21,9 +21,8 @@ Although English is not my strongest suit, I can create well-structured document
 ### Interests
 - **Music** – A messy mix of different genres.
 - **Maimai** – Actively improving my skills and enjoying the challenge.  
-- **Stardew Valley** – Engaging in a peaceful life of farming, fishing, and sometimes strategic planning in-game. 
 
-## 🎯 Goals & Aspirations
+## Goals & Aspirations
 - Continuously enhance my programming skills and explore new technologies.  
 - Contribute to meaningful projects that have a positive impact.  
 - Revisit and study mathematics more seriously.  
