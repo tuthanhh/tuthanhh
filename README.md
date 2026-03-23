@@ -1,11 +1,11 @@
 ## About Me
-- Hi! I’m Thanh Tu… or Tu Thanh… or Tu… or Thanh… honestly, just call me whatever you want 😄  
+- Hi! I’m Thanh Tu… or Tu Thanh… or Tu… or Thanh… honestly, just call me whatever you want
 - Third-year student in APCS, HCMUS. Currently surviving university one project at a time.  
 - I used to love math… and still do.  
 - Not a rhythm game enthusiast — but likes **maimai**. Currently at 14k and trying to get higher.  
 - I am enthusiastic about learning new technologies, contributing to projects, and collaborating effectively with others.  
 
-## 🛠 Skills & Interests
+## Skills & Interests
 
 ### Programming Languages
 - **C++** – Learned in university, still wondering why pointers exist.  
